@@ -8,7 +8,17 @@ const json = {
     att3: 1
   },
   '#': 10,
-  '@childs': []
+  '@childs': [
+    {
+      '@elem': 'child1'
+    },
+    {
+      '@elem': 'child2',
+      '@att': {
+        att: 'value'
+      }
+    }
+  ]
 }
 
-xml(json)
+console.log(xml('root', json))
