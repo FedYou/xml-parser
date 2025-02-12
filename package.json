@@ -7,7 +7,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "test": "node --test"
+    "test": "clear && node --test"
   },
   "keywords": [
     "xml",
