@@ -1,11 +1,13 @@
 {
   "name": "@fedyou/xml",
   "version": "1.0.0",
-  "description": "",
-  "directories": {
-    "lib": "lib"
-  },
-  "main": "lib/index.js",
+  "description": "Xml parser fast and simple",
+  "files": [
+    "lib",
+    "LICENSE",
+    "package.json"
+  ],
+  "main": "lib/main.js",
   "scripts": {
     "test": "clear && node --test"
   },

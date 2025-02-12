@@ -1,4 +1,4 @@
-const xmlParse = require('../../lib')
+const xmlParse = require('../../lib/main')
 
 const json = {
   '@elem': 'elem',
