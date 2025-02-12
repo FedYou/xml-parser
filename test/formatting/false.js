@@ -1,4 +1,4 @@
-const xmlParse = require('../../lib/main')
+const xmlParser = require('../../lib/main')
 
 const json = {
   '@elem': 'elem',
@@ -11,6 +11,6 @@ const json = {
   ]
 }
 
-const xml = xmlParse('root', json, { format: false })
+const xml = xmlParser('root', json, { format: false })
 
 console.log(xml)
