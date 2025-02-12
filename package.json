@@ -1,0 +1,18 @@
+{
+  "name": "@fedyou/xml",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "xml",
+    "xml parser"
+  ],
+  "author": "FedYou",
+  "license": "MIT"
+}
