@@ -1,5 +1,5 @@
 {
-  "name": "@fedyou/xml",
+  "name": "@fedyou/xml-parser",
   "version": "1.0.0",
   "description": "Xml parser fast and simple",
   "files": [
