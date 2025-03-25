@@ -45,3 +45,27 @@ Result:
   </elem>
 </root>
 ```
+
+Another way to use JSON as an array:
+
+```js
+const json = [
+  {
+    '@elem': 'child'
+  },
+  {
+    '@elem': 'child',
+    '@atts': { boolean: true }
+  }
+]
+```
+
+### Abbreviations
+
+`@elem`: `@`
+
+`#`: `#`
+
+`@atts`: `$`
+
+`@childs`: `&`
