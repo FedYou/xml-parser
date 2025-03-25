@@ -1,6 +1,6 @@
 {
   "name": "@fedyou/xml-parser",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Xml parser fast and simple",
   "files": [
     "lib",
